@@ -1,2 +1,9 @@
 # github-learning
-My first Github repository
+
+My first GitHub repository.
+
+## What I am learning
+
+- Git
+- GitHub
+- Linux
